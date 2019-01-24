@@ -15,7 +15,9 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @MapperScan(value = "com.dyq.dao")
 @EnableScheduling
 public class MyApplication {
+
     public static void main(String[] args) {
+        System.out.println(1);
         SpringApplication.run(MyApplication.class,args);
     }
 }

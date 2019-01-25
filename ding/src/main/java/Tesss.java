@@ -2,10 +2,10 @@
  * @author 丁艳青
  * @site www.dyq.com
  * @company xxx
- * @create 2019-01-24 21:21
+ * @create 2019-01-25 10:31
  */
-public class TestJava {
+public class Tesss {
     public static void main(String[] args) {
-        System.out.println("gitzz");
+        System.out.println("zzz");
     }
 }

@@ -6,6 +6,6 @@
  */
 public class Tesss {
     public static void main(String[] args) {
-        System.out.println("zzz");
+        System.out.println("zzz啧啧啧啧啧啧做");
     }
 }
